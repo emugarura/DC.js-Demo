@@ -15,5 +15,5 @@ var routes_setter = require('./server/config/routes.js');
 routes_setter(app);
 
 app.listen(8000,function(){
-  console.log('Mean Belt on port 8000')
+  console.log('Crossfilter Test on port 8000')
 })
